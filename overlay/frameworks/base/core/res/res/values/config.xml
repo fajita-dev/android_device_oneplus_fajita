@@ -411,4 +411,7 @@
         <item>2053</item> <!-- <item>sensorLocationY</item> -->
         <item>87</item>   <!-- <item>sensorRadius</item> -->
     </integer-array>
+	
+	<!-- Whether the device supports Smart Pixels -->
+    <bool name="config_supportSmartPixels">true</bool>
 </resources>
