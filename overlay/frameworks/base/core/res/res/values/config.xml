@@ -401,4 +401,7 @@
     <!-- Height of the status bar -->
     <dimen name="status_bar_height_portrait">80px</dimen>
     <dimen name="status_bar_height_landscape">80px</dimen>
+
+    <!-- Whether the device supports Smart Pixels -->
+    <bool name="config_supportSmartPixels">true</bool>
 </resources>
